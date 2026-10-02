@@ -10,3 +10,4 @@ client_secret*.json
 /data/raw/
 /data/processed/
 /reports/
+/models
