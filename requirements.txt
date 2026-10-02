@@ -1,7 +1,0 @@
-tensorflow
-dvc
-dvc[gdrive]
-pyyaml
-scikit-learn
-matplotlib
-pandas

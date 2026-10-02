@@ -1,4 +1,4 @@
-# Fashion ANN Pipeline (Git + DVC)
+# Fashion-MNIST ANN Pipeline
 
 Fully-connected ANN on Fashion-MNIST, versioned with Git + DVC (Google Drive remote).
 
