@@ -6,3 +6,7 @@ __pycache__/
 *.h5
 *credentials*.json
 client_secret*.json
+
+/data/raw/
+/data/processed/
+/reports/
